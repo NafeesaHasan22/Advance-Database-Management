@@ -1,5 +1,5 @@
 # Advance-Database
-The database design for “Hospital_Task_1” is structured to provide a scalable, secure, 
+The database design is structured to provide a scalable, secure, 
 and efficient way to manage hospital data. It integrates key aspects of modern database 
 management, including data integrity, security, and robust user interaction mechanisms. 
 By focusing on these critical areas, the design not only supports daily hospital 
