@@ -55,3 +55,4 @@ Use the provided SQL scripts to set up the databases.
 Import sample data from the CSV files.
 Run Queries:
 Execute the included SQL queries for both tasks to explore the data and analyze results.
+
